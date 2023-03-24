@@ -1,0 +1,115 @@
+body {
+	background-color: black;
+	font-family: 'Montserrat', sans-serif;
+	color:white;
+	overflow: hidden;
+	
+}
+
+.timewrap {
+	opacity: 0;	
+	position: absolute !important;
+	top:10px !important;
+	left:10px !important;
+	font-size: 50px !important;
+	margin: 20px !important;
+	display:inline;
+	
+}
+
+#click{
+	display: inline;
+	position: absolute;
+	bottom:0px;
+	left:0px;
+	margin: 20px;
+	text-align: center;	
+	
+}
+
+#cool {
+	position:absolute;
+	top:100px;
+	left:100px;
+	text-align: center;
+	display:none;
+	
+	
+
+}
+
+svg {
+	fill:white;
+	stroke:white;
+}
+#welcome {
+	text-align: center;
+	margin-top: 50vh;
+}
+#crit { 
+	position: absolute;
+	right:0px;
+	bottom:0px;
+	text-align: center;
+	margin: 20px;
+	
+}
+#delayedText{
+	visibility: hidden;
+	text-align: center;
+	margin-top: 50vh;
+}
+
+#dialog {
+	text-align: center !important;
+	
+}
+
+#secondtext{
+	visibility: hidden;
+	text-align: center;
+	margin-top: 50vh;
+}
+
+#thirdtext{
+	visibility: hidden;
+	text-align: center;
+	margin-top: 50vh;
+}
+
+#fourtext{
+	visibility: hidden;
+	text-align: center;
+	margin-top: 50vh;
+	font-size: 20px;
+}
+
+
+.timewrap {
+	font-size: 20px;
+}
+
+img {
+	margin: 0 auto;
+	cursor: hand;
+	color:black;
+}
+
+#awake {
+	position: absolute;
+	bottom:0px;
+	margin: 20px;
+	lefT:45vw;
+	text-align: center;
+	
+}
+
+#div1 {
+	font-size: 50px !important;
+	position:absolute;
+	top:0px;
+	right:0px;
+	margin: 20px;
+	text-align: right;
+	height:60px;
+}
